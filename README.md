@@ -33,7 +33,7 @@
 🚀 **[Green Cart](https://github.com/anshidarinshii/greencart)**  
 A MERN grocery app with **authentication, cart persistence, and product search**.  
 
-🤝 **[MentorMesh](https://github.com/anshidarinshii/mentormesh)** *(In Progress)*  
+🤝 **[MentorMesh](https://github.com/chandrasnair/mentormesh-project)** *(In Progress)*  
 Mentorship platform where **students & faculty can act as mentors/mentees**, built with MERN + Tailwind.  
 
 🌍 **[Linksy](https://github.com/anshidarinshii/linksy)** *(In Progress)*  
