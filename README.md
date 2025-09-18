@@ -25,8 +25,6 @@ Currently working on **MentorMesh** (mentorship matching system) and **Linksy** 
 - **[MentorMesh](https://github.com/anshidarinshii/mentormesh)** – Ongoing MERN + Tailwind mentorship platform where **students & faculty can act as mentors/mentees**.  
 - **[Linksy](https://github.com/anshidarinshii/linksy)** – Ongoing MERN + Tailwind platform for **community resource sharing** (blood bank, food pantry, book exchange).  
 - **[AI-Powered Waste Management](https://github.com/anshidarinshii/waste-management-ai)** – Hackathon project using **TensorFlow.js + MERN** for smart waste classification.  
-- **[Doctrace](https://github.com/anshidarinshii/doctrace)** – Hackathon-built lost & found platform with **React + Node.js + MongoDB**.  
-
 ---
 
 ## 📊 GitHub Stats  
